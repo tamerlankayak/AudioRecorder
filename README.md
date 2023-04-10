@@ -6,4 +6,6 @@ Simple audio recording and playing application.
 
 UI created with Jetpack Compose
 
+File of audio keeping in internal cache
+
 ![jetpack compose icon_RGB](https://user-images.githubusercontent.com/29164777/225876313-9b3d36fe-d8f2-4032-bff1-4a689feff35e.png)
